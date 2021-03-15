@@ -1,0 +1,16 @@
+{
+  "name": "electron-starter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "My Brand New App",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^12.0.1"
+  },
+  "dependencies": {
+    "electron-reloader": "^1.2.0"
+  }
+}
