@@ -1,8 +1,8 @@
 {
-  "name": "electron-starter",
+  "name": "simple-electron-starter",
   "version": "1.0.0",
   "main": "main.js",
-  "description": "My Brand New App",
+  "description": "A simple Electron starter with basic set up",
   "license": "MIT",
   "scripts": {
     "start": "electron ."
